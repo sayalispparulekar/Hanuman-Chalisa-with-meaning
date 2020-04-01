@@ -1,0 +1,202 @@
+
+a{ cursor: pointer; }
+
+span.def {
+color:#aa7777;
+}
+
+span.SanskritToc {
+font-family:Mangal;
+font-size:125%;
+}
+
+div.Sanskrit {
+font-family:Mangal;
+font-size:160%;
+font-weight:bold;
+}
+
+span.Sanskrit {
+font-family:Mangal;
+font-size:160%;
+font-weight:bold;
+}
+
+span.Sanskrit1 {
+font-family:Mangal;
+font-size:120%;
+font-weight:normal;
+}
+
+span.Sanskrit2 {
+font-family:Mangal;
+font-size:120%;
+font-weight:normal;
+color:brown;
+}
+
+span.SanskritBlue1 {
+font-family:Mangal;
+font-size:110%;
+font-weight:bold;
+color:#0000AA;
+}
+
+span.SanskritBlue2 {
+font-family:Mangal;
+font-weight:bold;
+color:#0000AA;
+}
+
+span.HGreen {
+font-size:110%;
+color:#003333;
+font-weight:bold;
+}
+
+div.SanskritHeading {
+font-family:Mangal;
+font-size:200%;
+font-weight:bold;
+}
+
+div.SanskritTrans {
+font-size:110%;
+}
+
+
+span.SanskritTrans {
+font-size:110%;
+}
+
+div.JapaText {
+font-family:Mangal;
+font-size:200%;
+font-weight:bold;
+}
+
+div.JapaTrans {
+font-family:Mangal;
+font-size:125%;
+}
+
+ul.MantrasTocList  li {
+padding-bottom:15px;
+}
+
+span.mainword {
+font-size:160%;
+font-weight:bold;
+color:#000000;
+}
+
+span.mword {
+font-family:Mangal;
+font-size:160%;
+font-weight:bold;
+color:#000000;
+}
+
+span.trans1 {
+color:#555533;
+}
+
+span.trans2 {
+color:#555533;
+}
+
+span.mng {
+font-family:Mangal;
+font-size:125%;
+color:#cc5555;
+font-weight:bold;
+}
+
+span.desc {
+color:#555555;
+}
+
+span.desc2 {
+color:#777777;
+font-size:90%;
+}
+
+span.header2 {
+font-weight:bold;
+font-size:90%;
+color:#7777cc;
+}
+
+span.keyword {
+color:brown;
+}
+
+span.kword {
+color:brown;
+}
+
+span.lnum {
+color:#888888;
+}
+
+span.sword {
+color:#888888;
+}
+
+span.txtsource {
+color:#7777cc;
+}
+
+table.tab {
+border:1px solid #000000;
+border-color:#888888;
+border-collapse:collapse;
+color:#888888;
+}
+table.tab th {
+border:1px solid #000000;
+border-color:#888888;
+padding: 5px 5px 5px 5px;
+background-color:#aaffaa;
+color:#888888;
+}
+table.tab td  {
+border:1px solid #000000;
+border-color:#888888;
+padding: 5px 5px 5px 5px;
+color:#888888;
+}
+
+table.tab1 {
+border:1px solid #000000;
+border-color:green;
+border-collapse:collapse;
+color:#000000;
+}
+table.tab1 th {
+border:1px solid #000000;
+border-color:green;
+padding: 5px 5px 5px 5px;
+background-color:#aaffaa;
+color:#000000;
+}
+table.tab1 td  {
+border:1px solid #000000;
+border-color:green;
+padding: 5px 5px 5px 5px;
+color:#000000;
+}
+
+div.ref {
+color:#003300;
+background-color: #dddddd;
+padding:5px 5px 5px 5px;
+}
+br.ref {
+clear:both;
+}
+
+span.name{
+color:#aa8833;
+font-style: italic;
+}
